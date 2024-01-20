@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Luxury Sauce</title>
+</head>
+<body>
+    <header>
+        <h1>Luxury Sauce</h1>
+        <nav>
+            <ul>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#recipes">Recipes</a></li>
+                <li><a href="#store">Online Store</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <!-- Product showcase goes here -->
+    </section>
+
+    <section id="features">
+        <h2>Unique Features</h2>
+        <!-- Feature highlights go here -->
+    </section>
+
+    <section id="recipes">
+        <h2>Delicious Recipes</h2>
+        <!-- Recipe ideas go here -->
+    </section>
+
+    <section id="store">
+        <h2>Online Store</h2>
+        <!-- Product listings and purchasing options go here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Luxury Sauce. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
